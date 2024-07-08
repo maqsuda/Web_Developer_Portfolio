@@ -1,0 +1,47 @@
+/* nav style */
+
+
+ul li a button {
+    background-color: darkorange;
+    border-radius: 5px;
+    border: 5px;
+}
+
+ul li a button:hover {
+    background-color: burlywood;
+}
+
+p {
+    border: 5px;
+    color: darkblue;
+
+}
+
+/* practice Task -4 */
+
+* {
+    margin: 10px;
+    /* text-align: left; */
+
+}
+
+/* hr {
+    height: 2px;
+} */
+
+.container label {
+    text-align: left;
+}
+
+.moreContainer {
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 5px 10px;
+}
